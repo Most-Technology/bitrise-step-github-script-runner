@@ -27,7 +27,7 @@ fi
 # or bash
 
 if [ "$command" = "python" ]; then
-    command="python3.11"
+    command="python3"
 elif [ "$command" = "bash" ]; then
     command="bash"
 else
